@@ -4,6 +4,7 @@ I'm a software engineer with main focus on machine learning. I'm doing my master
 
 I'm planning to do my master thesis in natural language processing.
 
-I'm always interested in working with computational engineering problem 🔭.
+I'm always interested in working with computational engineering problems 🔭.
 
 I spend most my time expanding my tech skills 🌱.
+
