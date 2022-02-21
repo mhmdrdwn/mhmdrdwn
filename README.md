@@ -8,4 +8,4 @@ I spend most my time expanding my tech skills 🌱.
 
 - 📫 How to reach me: mrdwn4@gmail.com
 
-![Laurence's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdrdwn&show_icons=true&theme=great-gatsby)
+![Laurence's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdrdwn&show_icons=true&theme=github_dark)
