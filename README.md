@@ -2,7 +2,7 @@
 
 I'm a software engineer with main focus on machine learning. 
 
-I'm always interested in working with engineering problems 🔭.
+I'm interested in solving big interdisciplinary engineering problems  🔭.
 
 I spend most my time expanding my tech skills 🌱.
 
